@@ -1,24 +1,3 @@
-# README
+heroku google maps -> https://limitless-reaches-82517.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Salut à toi! Je me suis un peu compliqué la vie pour google maps avec une bdd qui ne sert pas à grand chose. Pour voir s'afficher l'infobulle où tu souhaites, indique la latitude, longitude et message voulus et clique sur le bouton, et paf. 
