@@ -10,4 +10,7 @@ class HomeController < ApplicationController
 		redirect_to '/'
 	end
 
+	def lalala
+	end
+	
 end

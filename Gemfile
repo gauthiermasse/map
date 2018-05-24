@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'bootsnap'
 gem 'rake'
-
+gem 'twitch-api'
 # authentification
 #gem 'devise'
 #gem 'pundit'
